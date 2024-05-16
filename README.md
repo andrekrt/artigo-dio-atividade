@@ -2,6 +2,8 @@
 - Projeto gerado como atividade do curso [Santander 2024 - Fundamentos de IA para Devs](https://web.dio.me/track/santander-2024-fundamentos-de-ia-para-devs)  na plataforma [DIO](https://web.dio.me/) 
 - [Clique aqui para acessa o artigo](https://web.dio.me/articles/a-interface-entre-diversao-e-tecnologia-10-jogos-que-todo-geek-de-ti-deveria-experimentar?back=/articles&open-modal=true&page=1&order=oldest)
 
+![enter image description here](https://i.ibb.co/6gfBcVx/Captura-de-tela-2024-05-16-100153.png)
+
 ## Tecnologias Utilizadas
 - [ChatGPT](https://chatgpt.com/)
 - [Leornado IA](https://leonardo.ai/)
